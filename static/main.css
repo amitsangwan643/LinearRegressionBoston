@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(201, 148, 148);
+}
+
+input {
+  text-align: center;
+  background-color: rgb(162, 184, 162);
+  margin: 0.3cm;
+}
+
+form {
+  text-align: center;
+  margin-top: 2cm;
+}
+
+#d1,
+#d2,
+#d3,
+#d4,
+#d5,
+#d6,
+#d7,
+#d8 {
+  display: inline-block;
+  width: 22%;
+}
+#sub {
+  width: 27%;
+  margin-left: 27%;
+}
